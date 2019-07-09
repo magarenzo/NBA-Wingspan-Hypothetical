@@ -37,6 +37,36 @@ You get 2<sup>x</sup> * 10 dollars tax free into your bank account. x = the numb
 | 19                  | $5,242,880  |
 | 20                  | $10,485,760 |
 
+## NBA Players
+
+I started with trying to feature the wingspans of [SLAM’S TOP 100 PLAYERS OF ALL-TIME](https://www.interbasket.net/news/23623/2018/05/slam-top-100-nba-players-all-time-full-list/), but many of the players either had the same wingspan, or their wingspan was never recorded.
+
+Once I had a small list, I rounded it out so that it sits at 21 players separated by 1 inch, ranging from wingspans of 73 inches (Ty Lawson) up to 93 inches (Rudy Gobert). All wingspans are rounded to the nearest whole number.
+
+| Wingspan | NBA Player          |
+|----------|---------------------|
+| 73       | Ty Lawson           |
+| 74       | Isaiah Thomas       |
+| 75       | Allen Iverson       |
+| 76       | Stephen Curry       |
+| 77       | Steve Nash          |
+| 78       | Joe Harris          |
+| 79       | Jrue Holiday        |
+| 80       | Russell Westbrook   |
+| 81       | Jerry West          |
+| 82       | Charles Barkley     |
+| 83       | Michael Jordan      |
+| 84       | LeBron James        |
+| 85       | Tony Parker         |
+| 86       | Tracy McGrady       |
+| 87       | Scottie Pippen      |
+| 88       | Bill Russell        |
+| 89       | Kevin Durant        |
+| 90       | Hakeem Olajuwon     |
+| 91       | Shaquille O'Neal    |
+| 92       | Kareem Abdul-Jabbar |
+| 93       | Rudy Gobert         |
+
 ## Owner
 
 Michael A. Agarenzo

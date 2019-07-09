@@ -23,14 +23,15 @@ class NBAList():
     # Get NBAPlayer from NBAList of specified wingspan
     def get(self, w: int) -> str:
 
-      for i in range(len(self.players)):
-          if self.players[i].wingspan == w:
-            return self.players[i]
+    
+        for i in range(len(self.players)):
+            if self.players[i].wingspan == w:
+                return self.players[i]
 
-      if w < self.players[0].wingspan:
-          return self.players[0]
-      else:
-        return self.players[len(n)]
+        if w < self.players[0].wingspan:
+            return self.players[0]
+        else:
+            return self.players[len(n)]
 
 # Get Payout
 def getPayout(inches):

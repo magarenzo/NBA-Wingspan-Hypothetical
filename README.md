@@ -3,9 +3,13 @@ Reduce your wingspan, earn money, and be an NBA Superstar
 
 ## Hypothetical
 
-"You get 2<sup>X</sup> * 10 dollars tax free into your bank account. X is the number of inches you will reduce in your wingspan. What will you choose for X? Positive integers only."
+* You get 2<sup>x</sup> * 10 dollars tax free into your bank account. x = the number of inches you will reduce in your wingspan. What will you choose for x? Positive integers only.
 
-"Clarification: it’s as though your arms are being sucked into your torso, but you get to keep your shoulders for mobility."
+#### Clarifications
+
+* It’s as though your arms are being sucked into your torso, but you get to keep your shoulders for mobility.
+
+* Your arms remain proportional in terms of length, but your hands always stay the same size.
 
 ## Earnings
 

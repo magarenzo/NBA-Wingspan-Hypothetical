@@ -3,7 +3,7 @@ Reduce your wingspan, earn money, and be an NBA Superstar
 
 ## Hypothetical
 
-* You get 2<sup>x</sup> * 10 dollars tax free into your bank account. x = the number of inches you will reduce in your wingspan. What will you choose for x? Positive integers only.
+You get 2<sup>x</sup> * 10 dollars tax free into your bank account. x = the number of inches you will reduce in your wingspan. What will you choose for x? Positive integers only.
 
 #### Clarifications
 

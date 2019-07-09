@@ -23,13 +23,15 @@ class NBAList():
     # Get NBAPlayer from NBAList of specified wingspan
     def get(self, w: int) -> str:
 
-    
+        # If NBAPlayer with inputted wingspan exists, return that NBAPlayer
         for i in range(len(self.players)):
             if self.players[i].wingspan == w:
                 return self.players[i]
 
+        # If wingpsan is less than NBAPlayer with shortest wingspan, return that NBAPlayer
         if w < self.players[0].wingspan:
             return self.players[0]
+        # Else wingspan is greater than NBAPlayer with longest wingspan, return that NBAPlayer
         else:
             return self.players[len(n)]
 

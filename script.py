@@ -69,7 +69,6 @@ currentPlayer = n.get(current)
 print("\nYou are currently closest in wingspan to", currentPlayer.name, "who has a wingspan of", currentPlayer.wingspan, "inches\n")
 
 inches = int(input("How many inches do you want to remove from your wingspan?\n"))
-
 if (current >= inches):
     newPlayer = n.get(current - inches)
     print("\nYour wingspan is now", current - inches, "inches, you earned $", getPayout(inches), "and you are now closest in wingspan to", newPlayer.name, "who has a wingspan of", newPlayer.wingspan, "inches")

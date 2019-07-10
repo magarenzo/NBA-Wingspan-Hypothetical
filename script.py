@@ -6,7 +6,8 @@ class NBA_Player():
     def __init__(self, wingspan: int, name: str) -> None:
         """Initiate NBA_Player
         wingspan = passed-in int
-        name = passed-in str"""
+        name = passed-in str
+        returns nothing"""
         self.wingspan = wingspan
         self.name = name
 
@@ -16,17 +17,20 @@ class NBA_List():
 
     def __init__(self) -> None:
         """Initiate NBA_List
-        players = empty array"""
+        players = empty array
+        returns nothing"""
 
         self.players = []
 
     def add(self, player: NBA_Player) -> None:
-        """Add NBA_Player to instance of NBA_List"""
+        """Add NBA_Player to instance of NBA_List
+        returns nothing"""
 
         self.players.append(player)
 
     def get(self, wingspan: int) -> NBA_Player:
-        """Get NBA_Player from instance of NBA_List"""
+        """Get NBA_Player from instance of NBA_List
+        returns NBA_Player"""
 
         # If NBA_Player with inputted wingspan exists, return that NBA_Player
         for i in range(len(self.players)):
@@ -41,7 +45,8 @@ class NBA_List():
             return self.players[len(self.players) - 1]
 
 def get_input(question: str) -> int:
-    """Get input (int) from user"""
+    """Get input (int) from user
+    returns int"""
     
     while True:
         try:
@@ -57,14 +62,16 @@ def get_input(question: str) -> int:
     return value
 
 def get_payout(inches: int) -> int:
-    """Get payout according to inches (int)"""
+    """Get payout according to inches (int)
+    returns int"""
 
     # Return 2 to the power of inches removed from wingspan, times 10
     return (2 ** inches) * 10
 
-# Driver
-# Create instance of NBA_List and fill with NBA_Players
+# Create instance of NBA_List
 nba_list = NBA_List()
+
+# Fill NBA_List with NBA_Players
 nba_list.add(NBA_Player(73, "Ty Lawson"))
 nba_list.add(NBA_Player(74, "Isaiah Thomas"))
 nba_list.add(NBA_Player(75, "Allen Iverson"))
@@ -87,7 +94,7 @@ nba_list.add(NBA_Player(91, "Shaquille O'Neal"))
 nba_list.add(NBA_Player(92, "Kareem Abdul-Jabbar"))
 nba_list.add(NBA_Player(93, "Rudy Gobert"))
 
-# Prompt user
+# Driver
 current_wingspan = get_input("Enter your current wingspan in inches: \n")
 current_player = nba_list.get(current_wingspan)
 print("\nYou are currently closest in wingspan to", current_player.name, "who has a wingspan of", current_player.wingspan, "inches\n")

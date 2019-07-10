@@ -1,6 +1,6 @@
 # nba-wingspan-hypothetical
 
-Reduce your wingspan, earn money, and be an NBA Superstar
+Reduce your wingspan, earn hypothetical money, and compare yourself to an NBA superstar
 
 ## Hypothetical
 

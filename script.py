@@ -8,6 +8,7 @@ class NBA_Player():
         wingspan = passed-in int
         name = passed-in str
         returns None"""
+        
         self.wingspan = wingspan
         self.name = name
 

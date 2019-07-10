@@ -7,7 +7,7 @@ class NBA_Player():
         """Initiate NBA_Player
         wingspan = passed-in int
         name = passed-in str
-        returns nothing"""
+        returns None"""
         self.wingspan = wingspan
         self.name = name
 
@@ -18,13 +18,13 @@ class NBA_List():
     def __init__(self) -> None:
         """Initiate NBA_List
         players = empty array
-        returns nothing"""
+        returns None"""
 
         self.players = []
 
     def add(self, player: NBA_Player) -> None:
         """Add NBA_Player to instance of NBA_List
-        returns nothing"""
+        returns None"""
 
         self.players.append(player)
 

@@ -2,7 +2,7 @@
 
 Reduce your wingspan, earn hypothetical money, and compare yourself to an NBA superstar
 
-![NBA Wingspan Hypothetical](example.gif)
+![NBA Wingspan Hypothetical](example.gif | width=100)
 
 ## Hypothetical
 

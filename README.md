@@ -2,6 +2,8 @@
 
 Reduce your wingspan, earn hypothetical money, and compare yourself to an NBA superstar
 
+![NBA Wingspan Hypothetical](example.gif)
+
 ## Hypothetical
 
 You get 2<sup>x</sup> * 10 dollars tax free into your bank account. x = the number of inches you will reduce in your wingspan. What will you choose for x? Positive integers only.

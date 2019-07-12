@@ -58,8 +58,6 @@ def get_input(text: str) -> str:
     except ValueError:
         return ""
 
-
-
 def get_payout(inches: int) -> int:
     """Get payout according to inches (int)
     returns int"""

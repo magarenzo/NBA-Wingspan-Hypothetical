@@ -2,25 +2,25 @@
 
 Reduce your wingspan, earn hypothetical money, and compare yourself to an NBA superstar
 
-## Flask App
+## App
 
 <img src="imgs/app.gif" alt="GIF of app for NBA Wingspan Hypothetical" width="100%" />
 
-## Command Line Script
+## CMD
 
 <img src="imgs/script.gif" alt="GIF of script for NBA Wingspan Hypothetical" width="100%" />
 
-## Hypothetical
+### Hypothetical
 
 You get 2<sup>x</sup> * 10 dollars tax free into your bank account. x = the number of inches you will reduce in your wingspan. What will you choose for x? Positive integers only.
 
-### Clarifications
+#### Clarifications
 
 * It’s as though your arms are being sucked into your torso, but you get to keep your shoulders for mobility.
 
 * Your arms remain proportional in terms of length, but your hands always stay the same size.
 
-## Earnings
+### Earnings
 
 | Inches Off Wingspan | Payout      |
 |---------------------|-------------|
@@ -46,7 +46,7 @@ You get 2<sup>x</sup> * 10 dollars tax free into your bank account. x = the numb
 | 19                  | $5,242,880  |
 | 20                  | $10,485,760 |
 
-## NBA Players
+### NBA Players
 
 I started with trying to feature the wingspans of [SLAM’S TOP 100 PLAYERS OF ALL-TIME](https://www.interbasket.net/news/23623/2018/05/slam-top-100-nba-players-all-time-full-list/), but many of the players either had the same wingspan, or their wingspan was never recorded.
 

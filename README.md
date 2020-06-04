@@ -6,7 +6,7 @@ Reduce your wingspan, earn hypothetical money, and compare yourself to an NBA su
 
 <img src="imgs/app.gif" alt="GIF of app for NBA Wingspan Hypothetical" width="100%" />
 
-## CMD
+## Terminal
 
 <img src="imgs/script.gif" alt="GIF of script for NBA Wingspan Hypothetical" width="100%" />
 
@@ -75,6 +75,10 @@ Once I had a small list, I rounded it out so that it sits at 21 players separate
 | 91       | Shaquille O'Neal    |
 | 92       | Kareem Abdul-Jabbar |
 | 93       | Rudy Gobert         |
+
+## Dependency
+
+[Flask](https://flask.palletsprojects.com/en/1.1.x/)
 
 ## Owner
 

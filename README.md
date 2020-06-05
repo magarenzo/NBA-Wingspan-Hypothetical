@@ -4,11 +4,11 @@ Reduce your wingspan, earn hypothetical money, and compare yourself to an NBA su
 
 ## App
 
-<img src="imgs/app.gif" alt="GIF of app for NBA Wingspan Hypothetical" width="100%" />
+<img src="media/app.gif" alt="GIF of app for NBA Wingspan Hypothetical" width="100%" />
 
 ## Terminal
 
-<img src="imgs/script.gif" alt="GIF of script for NBA Wingspan Hypothetical" width="100%" />
+<img src="media/script.gif" alt="GIF of script for NBA Wingspan Hypothetical" width="100%" />
 
 ### Hypothetical
 

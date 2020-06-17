@@ -1,6 +1,6 @@
-import nba
 from flask import Flask, request, url_for, render_template, render_template_string
 from flask_restful import Resource, Api
+import nba
 
 app = Flask(__name__)
 api = Api(app)

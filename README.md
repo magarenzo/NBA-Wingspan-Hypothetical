@@ -79,5 +79,3 @@ Once I had a small list, I rounded it out so that it sits at 21 players separate
 ## Owner
 
 Michael A. Agarenzo
-
-[&#127867; Buy me a cider, or three!](https://www.buymeacoffee.com/magarenzo)

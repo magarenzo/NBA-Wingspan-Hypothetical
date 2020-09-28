@@ -1,6 +1,6 @@
 # ![GIF of NBA Wingspan Hypothetical in action](/media/app.gif)
 
-Reduce your wingspan, earn hypothetical money, and compare yourself to an NBA superstar
+Reduce your wingspan, earn hypothetical money and compare yourself to an NBA superstar
 
 ## Terminal
 

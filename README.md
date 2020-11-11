@@ -1,8 +1,10 @@
-# ![GIF of NBA Wingspan Hypothetical in action](/media/app.gif)
+# NBA Wingspan Hypothetical
 
 Reduce your wingspan, earn hypothetical money and compare yourself to an NBA superstar
 
-<img src="media/script.gif" alt="GIF of script for NBA Wingspan Hypothetical" width="100%" />
+<img src="/media/app.gif" alt="GIF of NBA Wingspan Hypothetical in action" width="100%" />
+
+<img src="media/script.gif" alt="GIF of script for NBA Wingspan Hypothetical in action" width="100%" />
 
 ## Overview
 

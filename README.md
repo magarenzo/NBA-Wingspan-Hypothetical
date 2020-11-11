@@ -2,15 +2,13 @@
 
 Reduce your wingspan, earn hypothetical money and compare yourself to an NBA superstar
 
-## Terminal
-
 <img src="media/script.gif" alt="GIF of script for NBA Wingspan Hypothetical" width="100%" />
 
-### Hypothetical
+## Overview
 
-You get 2<sup>x</sup> * 10 dollars tax free into your bank account. x = the number of inches you will reduce in your wingspan. What will you choose for x? Positive integers only.
+Hypothetical: You get 2<sup>x</sup> * 10 dollars tax free into your bank account. x = the number of inches you will reduce in your wingspan. What will you choose for x? Positive integers only.
 
-#### Clarifications
+### Clarifications
 
 * It’s as though your arms are being sucked into your torso, but you get to keep your shoulders for mobility.
 
@@ -78,4 +76,4 @@ Once I had a small list, I rounded it out so that it sits at 21 players separate
 
 ## Owner
 
-Michael A. Agarenzo
+[Michael A. Agarenzo](https://magarenzo.com)

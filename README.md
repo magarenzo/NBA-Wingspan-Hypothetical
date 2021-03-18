@@ -1,4 +1,4 @@
-# NBA Wingspan Hypothetical
+# NBA Wingspan Hypothetical 🏀
 
 Reduce your wingspan, earn hypothetical money and compare yourself to an NBA superstar
 

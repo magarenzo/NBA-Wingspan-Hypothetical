@@ -78,4 +78,4 @@ Once I had a small list, I rounded it out so that it sits at 21 players separate
 
 ## Owner
 
-[Michael A.](https://linkedin.com/in/magarenzo)
+[Michael Agarenzo](https://linkedin.com/in/magarenzo)
